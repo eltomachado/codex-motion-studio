@@ -1,0 +1,6 @@
+Use meu audio como narracao e crie uma introducao com motion graphics no estilo cyberpunk.
+Preserve a minha voz e a duracao inteira. Fundo escuro, luz azul e roxa, poucas palavras
+grandes e efeitos que ilustrem o que estou falando. Sincronize os destaques com a fala.
+Evite flashes excessivos e textos pequenos. Sem outra voz por cima.
+Crie as cenas, revise os frames e entregue o MP4 horizontal em 1920 x 1080, 30 fps.
+Faca tudo neste chat do Codex, sem abrir site, servidor ou interface externa.

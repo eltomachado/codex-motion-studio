@@ -1,7 +1,14 @@
-node_modules
-dist
+node_modules/
+dist/
+out/
+renders/
+work/
+.cache/
+inputs/
+public/projects/
 .DS_Store
 .env
-
-# Ignore the output video from Git but not videos you import into src/.
-out
+.env.*
+!.env.example
+*.log
+*.tsbuildinfo
